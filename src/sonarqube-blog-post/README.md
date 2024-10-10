@@ -12,7 +12,6 @@ SonarQube speelt een belangrijke rol in statische code-analyse en het verbeteren
   - [Inhoudsopgave](#inhoudsopgave)
   - [Introductie](#introductie)
   - [SonarQube Integreren met de DevOps-Levenscyclus](#sonarqube-integreren-met-de-devops-levenscyclus)
-  - [SonarQube Integreren met de DevOps-Levenscyclus](#sonarqube-integreren-met-de-devops-levenscyclus-1)
     - [SonarQube Gebruiken in de Ontwikkelingsfase](#sonarqube-gebruiken-in-de-ontwikkelingsfase)
     - [Voorbeeld van een CI/CD-pipeline met SonarQube](#voorbeeld-van-een-cicd-pipeline-met-sonarqube)
     - [SonarQube Toepassen in de Testfase](#sonarqube-toepassen-in-de-testfase)
@@ -39,9 +38,6 @@ SonarQube speelt een belangrijke rol in statische code-analyse en het verbeteren
 
 SonarQube is een toonaangevende tool voor statische code-analyse, die organisaties helpt om de codekwaliteit te verbeteren en technische schuld te verminderen. In combinatie met DevOps-principes speelt SonarQube een belangrijke rol in het automatiseren en optimaliseren van softwareontwikkelingsprocessen (Smith, 2021). Dit blog gaat dieper in op hoe SonarQube kan bijdragen aan de optimalisatie van DevOps-processen en het verbeteren van de codekwaliteit.
 
-## SonarQube Integreren met de DevOps-Levenscyclus
-
-SonarQube kan verschillende fasen van de DevOps-levenscyclus ondersteunen – van ontwikkeling tot implementatie en monitoring. Het helpt om feedback loops te versnellen en zorgt ervoor dat codekwaliteitsproblemen vroegtijdig worden geïdentificeerd en aangepakt (Tran, 2023).
 
 ## SonarQube Integreren met de DevOps-Levenscyclus
 
