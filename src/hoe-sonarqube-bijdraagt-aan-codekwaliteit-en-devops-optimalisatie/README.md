@@ -1,6 +1,6 @@
 # “Van Bugs naar Briljant: Hoe SonarQube je Code Laat Schitteren”
 
-*[Joris Wittenberg, oktober 2024.](https://github.com/hanaim-devops/devops-blog-jwittenberg/tree/main/src/sonarqube-blog-post)*
+*[Joris Wittenberg, januari 2025.](https://github.com/hanaim-devops/devops-blog-jwittenberg/tree/main/src/sonarqube-blog-post)*
 
 <hr>
 <img src="plaatjes/Sonarqube-logo.png" style="margin-left: 20px; margin-bottom: 20px;" width="500px" align="right" alt="mdbook logo om weg te halen" title="maar vergeet de alt tekst niet">
