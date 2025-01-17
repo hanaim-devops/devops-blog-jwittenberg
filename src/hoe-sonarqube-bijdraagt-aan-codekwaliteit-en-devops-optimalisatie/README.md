@@ -6,6 +6,7 @@
 <img src="plaatjes/Sonarqube-logo.png" style="margin-left: 20px; margin-bottom: 20px;" width="500px" align="right" alt="mdbook logo om weg te halen" title="maar vergeet de alt tekst niet">
 
 SonarQube, voorheen bekend als Sonar, is een opensourceplatform ontworpen om de kwaliteit van softwarecode te beheren. Het biedt ontwikkelaars een hulpmiddel om hoogwaardige code te leveren door inzicht te bieden in de algemene codekwaliteit. Vanuit een overzicht kunnen gebruikers eenvoudig doorklikken naar specifieke regels waar problemen zich voordoen. SonarQube is uitbreidbaar via plugins en ondersteunt een breed scala aan programmeertalen. Het platform kan code analyseren om kwaliteit gerelateerde aandachtspunten te identificeren, zoals duplicaten in code, falende testen en andere potentiële problemen. (Nauta & Nauta, 2016)
+
 Dit onderzoek zal de hoofdvraag “Hoe kan SonarQube bijdragen aan het verbeteren van de codekwaliteit en de efficiëntie van softwareontwikkelingsprocessen?” doormiddel van de volgende deelvragen:
 
 - Hoe draagt SonarQube bij aan het verbeteren van de codekwaliteit binnen softwareontwikkelingsprojecten?
